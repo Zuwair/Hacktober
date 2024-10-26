@@ -1,2 +1,2 @@
-# Hacktober
+# HacktoberFest
 Hacktober Beginner Event 
